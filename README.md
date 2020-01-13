@@ -27,9 +27,7 @@
 <p align="center">
 <img src="files/sample3.PNG" alt="drawing" />
 </p>
-<p align="center">
-<img src="files/sample.PNG" alt="drawing" />
-</p>
+
 
 ### Main Features
 * Checking Live Hosts
